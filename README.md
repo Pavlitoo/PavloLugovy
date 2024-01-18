@@ -19,4 +19,7 @@ I'm Pavel Lugovoy, I teach hard study Front-end, I study at IT Step. In my free 
 ![Static Badge](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black)
 
+<br></br>
+![Pavlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavlitoo&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlitoo&layout=compact)
 
